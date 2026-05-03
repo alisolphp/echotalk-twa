@@ -1,0 +1,12 @@
+.gradle
+build
+.apk
+.aab
+
+.keystore
+.jks
+signing-key-info.txt
+Readme.html
+
+.DS_Store
+Thumbs.db
