@@ -51,13 +51,13 @@ def twaManifest = [
 ]
 
 android {
-    compileSdkVersion 34
+    compileSdkVersion 31
     buildToolsVersion "34.0.0"
     namespace "ir.alisolphp.echotalk"
     defaultConfig {
         applicationId "ir.alisolphp.echotalk"
         minSdkVersion 21
-        targetSdkVersion 34
+        targetSdkVersion 31
         versionCode 1
         versionName "1"
 
