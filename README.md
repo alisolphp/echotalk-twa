@@ -15,7 +15,7 @@ This repository **only** contains the Android shell. For the actual application 
 ---
 
 ### 📦 Key Links
-- **Live PWA:** [echotalk.ir/EchoTalk/](https://echotalk.ir/EchoTalk/)
+- **Live PWA:** [EchoTalk.ir](https://echotalk.ir/EchoTalk/)
 - **Direct APK:** [Download Latest APK](https://echotalk.ir/s3/EchoTalk/EchoTalk.apk)
 
 ---
