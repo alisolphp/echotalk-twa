@@ -1,0 +1,18 @@
+EchoTalk is a privacy-first, offline shadowing tool that helps you master pronunciation and fluency through deliberate practice.
+
+✨ Highlights:
+• Works fully offline after the first load – no internet required.
+• Zero data collection – recordings and progress stay only on your device.
+• Free & Open Source (MIT) – the web version is available as a PWA on GitHub.
+• Multi-language support (15 languages): English, German, French, and more.
+• Record your voice and compare it against the model pronunciation.
+• Smart training modes: Auto-Skip, Auto-Repetition, Check mode, and adaptive speed.
+• Optional AI analysis for pronunciation, grammar, and creative exercises.
+• Practice streak calendar with motivational messages to keep you going.
+
+📦 This app is completely free, and has no annoying ads.
+
+💚 Enjoy the app? Consider starring the project on GitHub.
+
+🔗 Open-source repository:
+https://github.com/alisolphp/EchoTalk
